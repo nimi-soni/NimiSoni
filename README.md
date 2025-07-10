@@ -43,7 +43,7 @@ TCS Innovator | Versatile, diligent & passionate software developer committed to
 
 <br/>
 <p align="center">
- <a href="https://github.com/nimi-soni" target="blank">
+ <a href="https://x.com/nimi_soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_contact-me.png" alt="nimi_soni" height="120" width="120" /></a>
   &nbsp&nbsp
  <a href="https://github.com/nimi-soni/NimiSoni-Portfolio" target="blank">
