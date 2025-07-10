@@ -12,13 +12,13 @@
 -->
 <p align = "right">
   <a href="https://github.com/nimi-soni" target="blank">
-<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_skills.png" height="85" width="85" /></a>
+<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_skills.png" height="120" width="100" /></a>
    <a href="https://github.com/nimi-soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_projects.png" height="120" width="100" /></a>
    <a href="https://github.com/nimi-soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_blogs.png" height="120" width="100" /></a>
    <a href="https://github.com/nimi-soni" target="blank">
-<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_achievements.png" height="85" width="85" /></a>
+<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_achievements.png" height="120" width="100" /></a>
    <a href="https://github.com/nimi-soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_contact.png" height="120" width="100" /></a>
 </p>
