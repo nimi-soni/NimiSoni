@@ -1,5 +1,5 @@
 # Nimi Soni
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <div align = "right">
  Skills &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Projects &nbsp&nbsp&nbsp&nbsp&nbsp Blogs &nbsp&nbsp&nbsp&nbsp&nbsp Achievements &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Contact
 </div>
