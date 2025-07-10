@@ -1,19 +1,21 @@
 # Nimi Soni
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<!--
 <div align = "right">
  Skills &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Projects &nbsp&nbsp&nbsp&nbsp&nbsp Blogs &nbsp&nbsp&nbsp&nbsp&nbsp Achievements &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Contact
 </div>
+-->
 <p align = "right">
   <a href="https://github.com/nimi-soni" target="blank">
-<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_skills.png" height="120" width="120" /></a>
+<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_skills.png" height="85" width="85" /></a>
    <a href="https://github.com/nimi-soni" target="blank">
-<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_projects.png" height="120" width="120" /></a>
+<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_projects.png" height="120" width="100" /></a>
    <a href="https://github.com/nimi-soni" target="blank">
-<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_blogs.png" height="120" width="120" /></a>
+<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_blogs.png" height="120" width="100" /></a>
    <a href="https://github.com/nimi-soni" target="blank">
-<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_achievements.png" height="120" width="120" /></a>
+<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_achievements.png" height="85" width="85" /></a>
    <a href="https://github.com/nimi-soni" target="blank">
-<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_contact.png" height="120" width="120" /></a>
+<img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_contact.png" height="120" width="100" /></a>
 </p>
 
 <img align = "left" width = "500" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/IMG.jpg">
