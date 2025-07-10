@@ -1,5 +1,8 @@
+<p>
 <a href="https://github.com/nimi-soni" target="blank">
 <img align="left" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/LOGO.png" height="420" width="420" /></a>
+</p>
+
 <br/><br/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <!--
