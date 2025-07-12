@@ -30,9 +30,8 @@
 </div>
 <h5 align="center">👩🏻‍💻 Software Engineer | Passionate About Intelligent & Innovative Solutions</h5>
 <p></p>
-<h6 align = "left">
-TCS Innovator | Versatile, diligent & passionate software developer committed to crafting innovative solutions & continuously growing in the ever-evolving world of tech !! 
-</h6>
+<h6 align = "center">
+TCS Innovator | Versatile, diligent and passionate software developer committed to crafting innovative solutions and continuously growing in the ever-evolving world of tech !!</h6>
 <p align="center"> 
 <a href="https://github.com/nimi-soni" target="blank"><img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/GitHub.png" alt="nimi_soni" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/nimi-soni" target="blank"><img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/LinkedIn.png" alt="nimi_soni" height="30" width="30" /></a>
