@@ -11,13 +11,13 @@
 </div>
 -->
 <p align = "right">
-  <a href="https://github.com/nimi-soni/NimiSoni-Portfolio" target="blank">
+  <a href="https://github.com/nimi-soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_skills.png" height="120" width="100" /></a>
    <a href="https://github.com/nimi-soni?tab=repositories" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_projects.png" height="120" width="100" /></a>
    <a href="https://nimisoni.blogspot.com/" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_blogs.png" height="120" width="100" /></a>
-   <a href="https://github.com/nimi-soni/NimiSoni-Portfolio" target="blank">
+   <a href="https://github.com/nimi-soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_achievements.png" height="120" width="100" /></a>
    <a href="https://x.com/nimi_soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_contact.png" height="120" width="100" /></a>
@@ -37,7 +37,7 @@ TCS Innovator | Versatile, diligent and passionate software developer committed 
 <a href="https://www.linkedin.com/in/nimi-soni" target="blank"><img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/LinkedIn.png" alt="nimi_soni" height="30" width="30" /></a>
    <a href="https://nimisoni.blogspot.com/" target="blank"><img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/Blogger1.png" alt="nimi_soni" height="33" width="33" /></a>
  <a href="https://x.com/nimi_soni" target="blank"><img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/x.png" alt="nimi_soni" height="30" width="30" /></a>
-  <a href="https://github.com/nimi-soni/SAP-MDG-Dynamic-Validation" target="blank"><img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/SAP.png" alt="nimi_soni" height="30" width="30" /></a>
+  <a href="https://community.sap.com/t5/technology-blog-posts-by-members/reimagining-sap-mdg-field-validations-low-code-approach-ui-field-control/ba-p/14122121" target="blank"><img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/SAP.png" alt="nimi_soni" height="30" width="30" /></a>
 </p>
 
 <br/>
@@ -45,6 +45,6 @@ TCS Innovator | Versatile, diligent and passionate software developer committed 
  <a href="https://x.com/nimi_soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_contact-me.png" alt="nimi_soni" height="120" width="120" /></a>
   &nbsp&nbsp
- <a href="https://github.com/nimi-soni/NimiSoni-Portfolio" target="blank">
+ <a href="https://github.com/nimi-soni" target="blank">
 <img align="center" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/button_portfolio.png" alt="nimi_soni" height="120" width="115" /></a>
 </p>
