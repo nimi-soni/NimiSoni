@@ -1,5 +1,5 @@
 <p>
-<a href="https://github.com/nimi-soni/NimiSoni-Portfolio" target="blank">
+<a href="https://github.com/nimi-soni" target="blank">
 <img align="left" src="https://github.com/nimi-soni/NimiSoni/blob/main/AddOn/LOGO.png" height="380" width="380" /></a>
 </p>
 
