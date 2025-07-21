@@ -1,0 +1,3 @@
+WRITE 'SMART PROCUREMENT 2.0 WITH GEN-AI'.
+
+WRITE 'Worked on Smart Procurement 2.0 project leveraging the SAP PTP (Procure-to-Pay) module to enable full automation of Purchase Orders (PO), contracts including Annual Rate Contracts (ARC) and RFQ (Request for Quotation). This initiative aimed to modernize and automate the procurement lifecycle by building a smart, scalable solution using SAP’s P2P module and enhancing delivery orchestration through automated logic. The system integrates external web/mobile applications with the SAP backend using PI/PO/CPI middleware and remote-enabled function modules (RFCs) to drive seamless, real-time purchase documents creation and AI-based decision support and seamless integration with external systems.'.
